@@ -1,0 +1,6 @@
+pandas
+google-cloud-storage
+flask
+gunicorn
+gcsfs
+binance-sdk-spot
